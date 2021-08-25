@@ -1,0 +1,14 @@
+{
+  "name": "http_api",
+  "version": "1.0.1",
+  "description": "http(s) manager",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.4.3"
+  }
+}
